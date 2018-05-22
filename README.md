@@ -2,7 +2,7 @@
 
 ## **系统介绍：**
 
-- hgxin-app 版（High Grade x(somebody) Interactive office management systme)  是一款专注于小微企业内部管理的软件，如软件提供：
+- hgxin-app 版（High Grade x(somebody) Interactive office management system)  是一款专注于小微企业内部管理的软件，如软件提供：
 - 登录注册 
 - 项目管理功能
 - 企业内部报销功能
@@ -28,7 +28,7 @@
 
 - 若对所有以上未提及的内容有疑问，您可以随时发邮件给我们：
 - yigao1118@126.com
-- ©️hgxin-app 版 High Grade x(somebody) Interactive office management systme
+- ©️hgxin-app 版 High Grade x(somebody) Interactive office management system
 
 ## **更多功能**
 后续版本会持续更新，请保持关注：
